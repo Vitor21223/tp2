@@ -115,7 +115,7 @@ img {
     border-radius: 10px;
     background-color: silver;
     margin-top: 20px;
-    background-image: url(/fantasma/img/imagem_fundo.jpg);
+    background-image: url(img/imagem_fundo.jpg);
     background-size: cover;
 } 
 
